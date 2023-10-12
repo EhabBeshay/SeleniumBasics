@@ -34,6 +34,5 @@ public class DropDownWithSelectClass {
             System.out.println(option.getText());
         }
 
-
     }
 }
